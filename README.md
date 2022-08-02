@@ -1,2 +1,2 @@
-# ma-app
+# saccos-app
 this is ionic application
